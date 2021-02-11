@@ -1,0 +1,4 @@
+if the list of things use PLURAL
+if thing use SINGULAR
+if chess coordinates use TUPLE (x ,y) as pos
+if screen coordinates use TUPLE (x, y) as screen_pos
